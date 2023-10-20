@@ -27,11 +27,15 @@ Note that the folder created will be same as *name-of-project* instead of mern-i
 
 Have fun coding your new project and don’t forget to make frequent commits!
 
-To run, create two terminal sessions:
+## To run, create two terminal sessions:
 
-In tbe first one, run: 
-  npm run build
-  nodemon server
+1. In tbe first one, run:
+   ```
+   npm run build           # This only needs to be run once
+   nodemon server
+   ```
 
-In the second one, run:
-  npm run start
+3. In the second one, run:
+   ```
+   npm run start
+   ```
